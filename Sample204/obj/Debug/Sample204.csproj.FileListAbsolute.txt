@@ -1,0 +1,7 @@
+C:\Users\元基\source\repos\Sample204\bin\Debug\Sample204.exe.config
+C:\Users\元基\source\repos\Sample204\bin\Debug\Sample204.exe
+C:\Users\元基\source\repos\Sample204\bin\Debug\Sample204.pdb
+C:\Users\元基\source\repos\Sample204\obj\Debug\Sample204.csproj.AssemblyReference.cache
+C:\Users\元基\source\repos\Sample204\obj\Debug\Sample204.csproj.CoreCompileInputs.cache
+C:\Users\元基\source\repos\Sample204\obj\Debug\Sample204.exe
+C:\Users\元基\source\repos\Sample204\obj\Debug\Sample204.pdb

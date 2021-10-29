@@ -1,0 +1,6 @@
+C:\Users\元基\source\repos\Sample211\bin\Debug\Sample211.exe.config
+C:\Users\元基\source\repos\Sample211\bin\Debug\Sample211.exe
+C:\Users\元基\source\repos\Sample211\bin\Debug\Sample211.pdb
+C:\Users\元基\source\repos\Sample211\obj\Debug\Sample211.csproj.CoreCompileInputs.cache
+C:\Users\元基\source\repos\Sample211\obj\Debug\Sample211.exe
+C:\Users\元基\source\repos\Sample211\obj\Debug\Sample211.pdb

@@ -1,0 +1,6 @@
+C:\Users\元基\source\repos\ExampleProblem206\bin\Debug\ExampleProblem206.exe.config
+C:\Users\元基\source\repos\ExampleProblem206\bin\Debug\ExampleProblem206.exe
+C:\Users\元基\source\repos\ExampleProblem206\bin\Debug\ExampleProblem206.pdb
+C:\Users\元基\source\repos\ExampleProblem206\obj\Debug\ExampleProblem206.csproj.CoreCompileInputs.cache
+C:\Users\元基\source\repos\ExampleProblem206\obj\Debug\ExampleProblem206.exe
+C:\Users\元基\source\repos\ExampleProblem206\obj\Debug\ExampleProblem206.pdb
